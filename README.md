@@ -3,7 +3,7 @@
 - 🌱 I’m currently doing Computer Science in Engineering at TUHH (Hamburg University of Technology).
 - 💞️ I’m looking to collaborate on innovative projects that combine hardware and software, especially in robotics, automation, and smart devices.
 - 📫 How to reach me: [manmeet.singh2002@icloud.com]
-- ⚡ Fun fact: I’m fascinated by how small-scale projects, like DIY robots, can be scaled into real-world solutions!
+- ⚡ Fun fact: I’m fascinated by how small-scale projects (DIY Projects), can be scaled into real-world solutions!
 
 <!---
 MeetManCode/MeetManCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
